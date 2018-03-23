@@ -1,0 +1,21 @@
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\bin\Debug\form.exe.config
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\bin\Debug\form.exe
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\bin\Debug\form.pdb
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\obj\Debug\form.csprojResolveAssemblyReference.cache
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\obj\Debug\form.Form1.resources
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\obj\Debug\form.Properties.Resources.resources
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\obj\Debug\form.csproj.GenerateResource.Cache
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\obj\Debug\form.exe
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\obj\Debug\form.pdb
+C:\Users\Casska\Desktop\kutuphane\form\bin\Debug\kutuphane.exe.config
+C:\Users\Casska\Desktop\kutuphane\form\bin\Debug\kutuphane.exe
+C:\Users\Casska\Desktop\kutuphane\form\bin\Debug\kutuphane.pdb
+C:\Users\Casska\Desktop\kutuphane\form\obj\Debug\form.csprojResolveAssemblyReference.cache
+C:\Users\Casska\Desktop\kutuphane\form\obj\Debug\form.Form1.resources
+C:\Users\Casska\Desktop\kutuphane\form\obj\Debug\kutuphane.Properties.Resources.resources
+C:\Users\Casska\Desktop\kutuphane\form\obj\Debug\form.csproj.GenerateResource.Cache
+C:\Users\Casska\Desktop\kutuphane\form\obj\Debug\kutuphane.exe
+C:\Users\Casska\Desktop\kutuphane\form\obj\Debug\kutuphane.pdb
+C:\Users\Casska\Desktop\kutuphaneotomasyonu\form\bin\Debug\kutuphane.exe.config
+C:\Users\Casska\Desktop\kutuphaneotomasyonu\form\obj\Debug\kutuphane.exe
+C:\Users\Casska\Desktop\kutuphaneotomasyonu\form\obj\Debug\kutuphane.pdb

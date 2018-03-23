@@ -1,0 +1,21 @@
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\bin\Release\form.exe.config
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\bin\Release\form.exe
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\bin\Release\form.pdb
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\obj\Release\form.Form1.resources
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\obj\Release\form.Properties.Resources.resources
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\obj\Release\form.csproj.GenerateResource.Cache
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\obj\Release\form.exe
+C:\Users\Casska\Documents\Visual Studio 2013\Projects\form\form\obj\Release\form.pdb
+C:\Users\Casska\Desktop\kutuphane\form\bin\Release\form.exe.config
+C:\Users\Casska\Desktop\kutuphane\form\obj\Release\form.exe
+C:\Users\Casska\Desktop\kutuphane\form\obj\Release\form.pdb
+C:\Users\Casska\Desktop\kutuphane\form\bin\Release\kutuphane.exe.config
+C:\Users\Casska\Desktop\kutuphaneotomasyonu\form\bin\Release\kutuphane.exe.config
+C:\Users\Casska\Desktop\kutuphaneotomasyonu\form\bin\Release\kutuphane.exe
+C:\Users\Casska\Desktop\kutuphaneotomasyonu\form\bin\Release\kutuphane.pdb
+C:\Users\Casska\Desktop\kutuphaneotomasyonu\form\obj\Release\form.csprojResolveAssemblyReference.cache
+C:\Users\Casska\Desktop\kutuphaneotomasyonu\form\obj\Release\form.Form1.resources
+C:\Users\Casska\Desktop\kutuphaneotomasyonu\form\obj\Release\kutuphane.Properties.Resources.resources
+C:\Users\Casska\Desktop\kutuphaneotomasyonu\form\obj\Release\form.csproj.GenerateResource.Cache
+C:\Users\Casska\Desktop\kutuphaneotomasyonu\form\obj\Release\kutuphane.exe
+C:\Users\Casska\Desktop\kutuphaneotomasyonu\form\obj\Release\kutuphane.pdb
